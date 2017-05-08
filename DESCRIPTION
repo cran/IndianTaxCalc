@@ -1,7 +1,7 @@
 Package: IndianTaxCalc
 Type: Package
 Title: Indian Income Tax Calculator
-Version: 1.0.1
+Version: 1.0.2
 Author: Sulthan <contact@iamsulthan.in>
 Maintainer: Sulthan <contact@iamsulthan.in>
 URL: https://github.com/iamsulthan/IndianTaxCalc
@@ -10,6 +10,6 @@ Description: Calculate Indian Income Tax liability for Financial years of Indivi
 License: GPL (>= 2)
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2017-02-28 09:56:47 UTC; sulthan
+Packaged: 2017-05-08 12:25:31 UTC; Sulthan
 Repository: CRAN
-Date/Publication: 2017-02-28 12:19:19
+Date/Publication: 2017-05-08 12:33:59 UTC
